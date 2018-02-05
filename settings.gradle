@@ -1,1 +1,1 @@
-include ':app', ':ir.kivee.kpress'
+include ':app'

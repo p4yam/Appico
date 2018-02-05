@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements ViewPagerEx.OnPag
         topSlider.setDuration(4000);
         topSlider.addOnPageChangeListener(this);
         topSlider.startAutoCycle();
+
     }
 
     @Override
